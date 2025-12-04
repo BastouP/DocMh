@@ -1,4 +1,3 @@
 # Installation
 
-À remplir…
-Un jour ou jamais
+après demain
