@@ -1,0 +1,39 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - main
+      - master   # au cas où ton repo utilise "master"
+  workflow_dispatch:  # pour lancer à la main si tu veux
+
+permissions:
+  contents: write  # pour pousser sur gh-pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install mkdocs mkdocs-material
+
+      - name: Deploy MkDocs site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          python -m mkdocs gh-deploy --force
