@@ -5,3 +5,4 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Test: test.md
