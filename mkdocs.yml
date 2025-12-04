@@ -1,0 +1,7 @@
+site_name: Documentation Menu Mh
+
+theme:
+  name: material
+
+nav:
+  - Accueil: index.md
