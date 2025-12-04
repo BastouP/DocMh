@@ -1,8 +1,11 @@
-site_name: Documentation Menu Mh
+site_name: Documentation MenuMh
 
 theme:
   name: material
 
 nav:
   - Accueil: index.md
-  - Test: test.md
+  - Installation: installation.md
+  - Utilisation: utilisation.md
+  - Configuration: configuration.md
+  - FAQ: faq.md
