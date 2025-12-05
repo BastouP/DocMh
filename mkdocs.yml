@@ -11,4 +11,7 @@ nav:
   - Utilisation: utilisation.md
   - Configuration: configuration.md
   - FAQ: faq.md
-  - Staff: Staff.md
+  - Accueil Staff: Staff.md
+  - Action Joueur : Action_Joueuer.md
+  - Action Véhicule : Véhicule.md
+  - Action Serveur : Serveur.md
