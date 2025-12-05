@@ -3,6 +3,8 @@ site_name: MenuMh
 theme:
   name: material
 
+nav_style : dark
+
 nav:
   - Accueil: index.md
   - Installation: installation.md
