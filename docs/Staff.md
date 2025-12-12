@@ -2,5 +2,6 @@
 
 Bienvenue les loulou
 
- <link rel="icon" href="../assets/images/Menu_Admin.png">
+ 
+ ![Alt test](site\assets\images\Menu_Admin.jpg)
  
