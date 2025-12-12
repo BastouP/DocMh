@@ -1,5 +1,3 @@
-# Joueur
-
 # Info :
 Vous donne les information suivante : ID, Nom RP, Nom Steam, Steam lisence, Son grade staff, Ces Jobs, Argents
 # Revive :
