@@ -3,5 +3,5 @@
 Bienvenue les loulou
 
  
- ![Alt test](site\assets\images\Menu_Admin.jpg)
+ ![Alt text](/site/assets/images/Menu_Admin.jpg)
  
