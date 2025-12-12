@@ -1,5 +1,5 @@
 # Spawn un Véhicule
-Ici il vous suffit d'entrer la classe name du véhicule. Vous pouvez retrouver toute les class name sur le discord staff rubrique 〘🚘〙ᴠᴇʜɪᴄᴜʟᴇꜱ
+Ici il vous suffit d'entrer la classe name du véhicule. Vous pouvez retrouver toute les class name sur le discord staff rubrique 〘🚘〙ᴠᴇʜɪᴄᴜʟᴇꜱ https://discord.com/channels/967403449421561866/1119311398422458409
 # Upgrades véhicules
 Ici vous retrouverez les différentes modifications possible sur le véhicule. Motorisation, freinage... 
 # Upgrades Véhicules Max
