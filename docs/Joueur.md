@@ -8,7 +8,8 @@ Soigne une personne.
 Met une personne à 10 HP.
 # Kill :
 Rend une personne inconsiente.
-# Nettoyer (voir avec bastioen).
+# Nettoyer
+A voir avec bastien
 # Freeze : 
 Bloque un joueur, ne peut plus rien faire.
 # Warn :
